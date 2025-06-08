@@ -1,0 +1,7 @@
+deepface
+matplotlib
+numpy
+opencv-python
+psycopg2
+datetime
+schedule
